@@ -1,0 +1,26 @@
+_repo: The-Expositor-s-Bible--The-Epistle-to-the-Philippians_39788
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rainy, Robert
+    birthdate: 1826
+    deathdate: 1906
+    gutenberg_agent_id: '40231'
+    url: http://www.gutenberg.org/2009/agents/40231
+description: ''
+gutenberg_issued: '2012-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Philippians -- Commentaries'
+title: 'The Expositor''s Bible: The Epistle to the Philippians'
+url: http://www.gutenberg.org/ebooks/39788
